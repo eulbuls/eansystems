@@ -12,5 +12,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <P>  (커밋한번) </P>
+<P>  (커밋두번) </P>
 </body>
 </html>
